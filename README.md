@@ -17,5 +17,3 @@ This repository contains a Google Colab notebook that converts Jupyter Notebook 
 ## Issues
 If you encounter errors, check the output messages or open an issue in this repository.
 
-## License
-[Optional: Add a license, e.g., MIT License]
